@@ -4,7 +4,8 @@
 #include "callbacks.h"
 
 typedef struct {
-    const char *flag;
+    const char *full_flag;
+    const char *short_flag;
     void (*callback)(CallbackContext);
 } Flag;
 
