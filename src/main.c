@@ -20,6 +20,7 @@ int main(int argc, char *argv[]) {
         {"--sandbox",   "-s", sandbox},
         {"--veromikka", "-v", veromikka},
         {"--user",      "-u", user},
+        {"--version", "-V", version}
     };
 
     const size_t flags_len = sizeof(flags) / sizeof(flags[0]);
