@@ -1,4 +1,4 @@
-#include "callbacks.h"
+#include "../callbacks.h"
 #include <stdio.h>
 
 void help(const CallbackContext ctx) {
