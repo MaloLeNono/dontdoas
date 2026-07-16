@@ -12,8 +12,12 @@ Well, worry not! `dontdoas` is here to save the day!
 The following options are currently supported:
 
 `--help`: Doesn't provide help.
+
 `--sandbox`: Doesn't run in sandbox.
+
 `--veromikka`: That's for you to figure out...
+
+`--user`: Doesn't doas as a user.
 
 ## How do I install this incredible package?
 
