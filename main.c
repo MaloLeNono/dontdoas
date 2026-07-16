@@ -15,6 +15,7 @@ int main(int argc, char *argv[]) {
         {"--veromikka", "sowwy, couldn't dwoas :c"},
         {"-u", "Didn't doas %s."},
     };
+
     const int flags_len = sizeof(flags) / sizeof(flags[0]);
 
     if (argc > 1) {
