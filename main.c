@@ -16,10 +16,10 @@ int check_flag(const char *arg, const Flag flag) {
 
 int main(int argc, char *argv[]) {
     const Flag flags[] = {
-        {"--help",      "-h",help},
-        {"--sandbox",   "-s",sandbox},
-        {"--veromikka", "-v",veromikka},
-        {"--user",      "-u",user},
+        {"--help",      "-h", help},
+        {"--sandbox",   "-s", sandbox},
+        {"--veromikka", "-v", veromikka},
+        {"--user",      "-u", user},
     };
 
     const size_t flags_len = sizeof(flags) / sizeof(flags[0]);
