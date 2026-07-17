@@ -23,10 +23,6 @@ The following options are currently supported:
 
 It's very simple!
 
-If you are on Arch Linux or any of its derivatives, you can easily install it by installing the `dontdoas` package on the AUR using your favourite AUR helper!
-
-If you are not on Arch Linux, you can alternatively follow these steps:
-
 1. Clone the repository: `git clone https://github.com/MaloLeNono/dontdoas.git`
 2. Go inside the repository: `cd dontdoas`
 3. Compile `main.c`: `gcc -O2 -o dontdoas main.c`
