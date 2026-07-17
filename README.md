@@ -24,6 +24,6 @@ The following options are currently supported:
 It's very simple!
 
 1. Clone the repository: `git clone https://github.com/MaloLeNono/dontdoas.git`
-2. Go inside the repository: `cd dontdoas`
-3. Compile `main.c`: `gcc -O2 -o dontdoas main.c`
+2. Go inside the repository: `cd dontdoas/src`
+3. Compile `main.c`: `gcc -O2 -o dontdoas *.c`
 4. Run dontdoas! `./dontdoas <options> <command>`
