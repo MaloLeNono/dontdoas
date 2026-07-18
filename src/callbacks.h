@@ -10,6 +10,6 @@ void help(CallbackContext ctx);
 void sandbox(CallbackContext ctx);
 void veromikka(CallbackContext ctx);
 void user(CallbackContext ctx);
-void version(CallbackContext ctx)
+void version(CallbackContext ctx);
 
 #endif //DONTDOAS_CALLBACKS_H
