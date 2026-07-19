@@ -7,7 +7,7 @@ Well, worry not! `dontdoas` is here to save the day!
 
 `dontdoas` is very simple to use! The usage is as follows:
 
-`dontdoas <options> <command>`
+`dontdoas <options> <commands>`
 
 The following options are currently supported:
 
